@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ankita Mohapatra</h1>
-<h3 align="center">A passionate data science enthusiast with a flair for machine learning, NLP & deep learning.</h3>
+<h1 align="center">👩‍💻Hey, I'm Ankita Mohapatra</h1>
+<h3 align="center">A passionate data science enthusiast🎯 with a flair for machine learning, NLP & deep learning.✨</h3>
 
 <!--
 **ankitamohapatra0406/ankitamohapatra0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
