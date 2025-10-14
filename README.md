@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻Hey, I'm Ankita Mohapatra</h1>
 <h3 align="center">A passionate data science enthusiast🎯 with a flair for machine learning, NLP & deep learning.✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyapatel15&label=Profile%20views&color=0e75b6&style=flat" alt="shreyapatel15" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitamohapatra0406&label=Profile%20views&color=0e75b6&style=flat" alt="ankitamohapatra0406" /> </p>
 
 
 <!--
