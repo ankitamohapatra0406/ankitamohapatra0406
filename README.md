@@ -31,9 +31,9 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Deep Learning (TensorFlow)" width="40" height="40"/>
   </a>
 
-  <!-- Natural Language Processing -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo_icon.svg" alt="NLP (PyTorch)" width="40" height="40"/>
+ <!-- Natural Language Processing -->
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Natural Language Processing (Hugging Face)" width="40" height="40"/>
   </a>
 
   <!-- HTML -->
