@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitamohapatra0406&label=Profile%20views&color=0e75b6&style=flat" alt="ankitamohapatra0406" /> </p>
 
-
 ### 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,googlecloud,tensorflow,pytorch,nlp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,googlecloud,tensorflow,pytorch,mongodb&theme=dark" />
 </p>
-
 
 <!--
 **ankitamohapatra0406/ankitamohapatra0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
