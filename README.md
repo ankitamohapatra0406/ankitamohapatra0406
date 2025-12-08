@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitamohapatra0406&label=Profile%20views&color=0e75b6&style=flat" alt="ankitamohapatra0406" /> </p>
 
-### 🛠️ Languages & Tools   
+### 🛠️ Languages & Tools  
 
  
 <p align="center">
