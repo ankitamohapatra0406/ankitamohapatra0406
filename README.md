@@ -5,7 +5,7 @@
 
 ### 🛠️ Languages & Tools 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,googlecloud,tensorflow,pytorch,mongodb&theme=dark"  />
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,googlecloud,mongodb&theme=dark"  />
 </p>
 
 <!--
