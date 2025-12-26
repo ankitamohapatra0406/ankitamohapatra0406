@@ -5,7 +5,11 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,googlecloud,mongodb,django&theme=dark"  />
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,googlecloud&theme=dark"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb,django&theme=dark"  />
+
 </p>
 
 <!--
