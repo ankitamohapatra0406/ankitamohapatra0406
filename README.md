@@ -11,7 +11,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,django&theme=dark"  />
 
 </p>
-
 <!--
 **ankitamohapatra0406/ankitamohapatra0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
